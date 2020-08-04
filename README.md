@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-⚡ About me: A guy addicted to technology, programming and everything about the geek world.
+⚡ About me: A guy addicted to technology, coding and everything about the geek world.
 
 - 🔭 I’m currently a Public Accountant, but always looking for an opportunity in IT area.
 - 🌱 I’m currently learning JavaScript and NodeJS. Also, I'm studying Systems Analysis and Development at SENAC in Florianópolis.
